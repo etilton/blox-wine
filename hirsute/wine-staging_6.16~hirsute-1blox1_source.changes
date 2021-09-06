@@ -1,0 +1,48 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sun, 05 Sep 2021 16:15:50 -0500
+Source: wine-staging
+Built-For-Profiles: noudeb
+Architecture: source
+Version: 6.16~hirsute-1blox1
+Distribution: hirsute
+Urgency: low
+Maintainer: Rosanne DiMesio <dimesio@earthlink.net>, Marcus Meissner <meissner@suse.com>
+Changed-By: Eric Tilton <etilton@protonmail.com>
+Changes:
+ wine-staging (6.16~hirsute-1blox1) hirsute; urgency=low
+ .
+   * Apply fix for mouse right click.
+Checksums-Sha1:
+ b1ef23f2c2d1e01201ed84aa9a24a1bede6c7023 3275 wine-staging_6.16~hirsute-1blox1.dsc
+ 50d1e554041870ac8ffa6b22ce0f8da49109c9e7 51164298 wine-staging_6.16~hirsute.orig.tar.gz
+ 11e07e5fc0425a1159cfbb1dd4cf5e806830fc99 7384 wine-staging_6.16~hirsute-1blox1.debian.tar.xz
+ 355148c174b2bbe65a635e752cc9a096cec14d60 22089 wine-staging_6.16~hirsute-1blox1_source.buildinfo
+Checksums-Sha256:
+ 204eb076bcaab53b4a0b7572074fa073b74f798105b0333cc593b4265856149d 3275 wine-staging_6.16~hirsute-1blox1.dsc
+ d5c47f8b9abaac93c62901ee08ec7f208f6a057be242293aad88cdceb0b80398 51164298 wine-staging_6.16~hirsute.orig.tar.gz
+ 4fe378a98228097d1874c01c9dc43c783f0148ef3514a2616ba1104fb75778e2 7384 wine-staging_6.16~hirsute-1blox1.debian.tar.xz
+ c687dc105922076fc0745aa0c8d3b4d818a5f6d1bba655889deebf0271c4f23f 22089 wine-staging_6.16~hirsute-1blox1_source.buildinfo
+Files:
+ 2b2da2dfe03f67c5eb0ac7be25adef9e 3275 otherosfs optional wine-staging_6.16~hirsute-1blox1.dsc
+ 5fd7ad58b42f4e4016f1d7c206e2fc7e 51164298 otherosfs optional wine-staging_6.16~hirsute.orig.tar.gz
+ e927fb431a72e2b0c65d27d84ef199e2 7384 otherosfs optional wine-staging_6.16~hirsute-1blox1.debian.tar.xz
+ 6a462a931d5b372c0b771ad21825fa6d 22089 otherosfs optional wine-staging_6.16~hirsute-1blox1_source.buildinfo
+Original-Maintainer: WineHQ Builds <webmaster@fds-team.de>
+
+-----BEGIN PGP SIGNATURE-----
+
+iQHLBAEBCgA1FiEED3seUZAfFZO76zOrwPH13GoRgpIFAmE1OacXHGV0aWx0b25A
+cHJvdG9ubWFpbC5jb20ACgkQwPH13GoRgpL7nAv+Mb4ePo7jaPRNWHjA+PoI/ELY
+kLpdy60o+UUy31owbPB9rwPAjXhPL3Nja/PqsV2bN670DU11ZYyY3BRTdS3RqOjQ
+pexl3P+5JaXBObOCgx96cWwk4MrEFSt25cqKOzCCZsHqM+9/POuUIfTWqJVDb6qd
+vsux7OdhiERsFaWdWBgXCDXjNy55U713ZehIz5WxVR1zlI3KXTC4WmoryU+RdPGI
+0TnbuHuty0ea05GV6OWcF0BmiSg4iDDyQz4qg6JCOoWPJX3RJDGW9AJExz+b6jGt
+sLcTHCn1RX90iP8JDDjejFFVizf7VpyDjzZhaySLc5RucCjmH39bFdukK799bG6P
+sq/IxSXyHlOFP3WhhTb1nUhuzGkpdrIHczkfJE1qJAQvcM6ONTopL1AIibf71rYp
+XlxOMKXLSqOjLY9okxvXklLsi70LIXa2jsWWgScX/0aFP6fbnOBbugWhEbLS9Gy8
+5RTuKxX6czEi8oes613A+2qKp5bqtTHtkXCfUQyC
+=uGI0
+-----END PGP SIGNATURE-----

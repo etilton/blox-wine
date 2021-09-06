@@ -1,0 +1,2 @@
+deb https://etilton.github.io/blox-wine ./
+deb-src https://etilton.github.io/blox-wine ./

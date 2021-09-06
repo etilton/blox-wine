@@ -1,0 +1,48 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sun, 05 Sep 2021 16:20:33 -0500
+Source: wine-staging
+Built-For-Profiles: noudeb
+Architecture: source
+Version: 6.16~impish-1blox1
+Distribution: impish
+Urgency: low
+Maintainer: Rosanne DiMesio <dimesio@earthlink.net>, Marcus Meissner <meissner@suse.com>
+Changed-By: Eric Tilton <etilton@protonmail.com>
+Changes:
+ wine-staging (6.16~impish-1blox1) impish; urgency=low
+ .
+   * Apply fix for mouse right click.
+Checksums-Sha1:
+ 94ad19c2a9ea6a1d84f4ebd7ef1e29d8fa17a701 3268 wine-staging_6.16~impish-1blox1.dsc
+ 50d1e554041870ac8ffa6b22ce0f8da49109c9e7 51164298 wine-staging_6.16~impish.orig.tar.gz
+ 0d2d306638fc27abf15667640a8535840fb31675 7352 wine-staging_6.16~impish-1blox1.debian.tar.xz
+ 462e9c9cf0c1606c6f4c2d30d55a5322155bc033 22085 wine-staging_6.16~impish-1blox1_source.buildinfo
+Checksums-Sha256:
+ 31957770a5762582b4bd941a1c236d9eba305427e1d8d7973b0cded12083286c 3268 wine-staging_6.16~impish-1blox1.dsc
+ d5c47f8b9abaac93c62901ee08ec7f208f6a057be242293aad88cdceb0b80398 51164298 wine-staging_6.16~impish.orig.tar.gz
+ 4403f65ba0485cc53063ba839deaf7f92919adc00ca43452ae856bdfc14c43e4 7352 wine-staging_6.16~impish-1blox1.debian.tar.xz
+ cce5e7a2b54ef57d3f64bda6015e008c108d0d37eee495b36d64a22bfee5c67d 22085 wine-staging_6.16~impish-1blox1_source.buildinfo
+Files:
+ b8d797e70d7a44b56d5edb4823c3fcd4 3268 otherosfs optional wine-staging_6.16~impish-1blox1.dsc
+ 5fd7ad58b42f4e4016f1d7c206e2fc7e 51164298 otherosfs optional wine-staging_6.16~impish.orig.tar.gz
+ 5a027d1840f7d32983b8b2665d744a7c 7352 otherosfs optional wine-staging_6.16~impish-1blox1.debian.tar.xz
+ 9f3dd53e60b43851df02df148f846406 22085 otherosfs optional wine-staging_6.16~impish-1blox1_source.buildinfo
+Original-Maintainer: WineHQ Builds <webmaster@fds-team.de>
+
+-----BEGIN PGP SIGNATURE-----
+
+iQHLBAEBCgA1FiEED3seUZAfFZO76zOrwPH13GoRgpIFAmE1OXoXHGV0aWx0b25A
+cHJvdG9ubWFpbC5jb20ACgkQwPH13GoRgpLL8wv/ZVfLQFGDntangADOhRkXcigm
+80bBTK7ysNrco1J5JGqXODmlJpn3BFMwbypg1tVH4832KCYrtHVp8OMAAYQrDSzn
+XTHSyMMcwhqMsm/79y9Hd76JElneoN9nM8JHQICzvBmAVPf7+PcjZWuzMbdu0PKh
+C9kZXbbD2u7jpJ1BueagsnslvLaUhPyQKA73r3SDdJc1cezE2v+Ixyw6jVmL1DJi
+YMZV4olfKRREhZ4Vdktl3yIpW1jrduQhdJW6zqyZpePrm/cQmTxWuuDEakd3Ko54
+wmoXZjlwsCLK/Zvqf/9O3VjBS73QCJzQmVOtsNLxrgSqyv5PVvITh4CrwdeO91NO
+xlvP+6Rvi3tku4J7EKNKJq3n2fhj7NiOQlxLh5e+h1Ykt9mw8GW3L7NWOL9CS1GQ
+wXDYO59vfKWKG7Vu878dQ1MZy/UfMs2hqxeoDD+dhwCNQSL1R5JGGKSYYMxS4+iP
+M9e6G3jJBqG8618jGQIFZ2hPdH16WxRJTwxzL4vd
+=warR
+-----END PGP SIGNATURE-----
