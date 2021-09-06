@@ -15,8 +15,20 @@ Package-List:
  wine-staging-dev deb libdevel optional arch=i386,amd64,armhf
  wine-staging-i386 deb otherosfs optional arch=i386
  winehq-staging deb otherosfs optional arch=i386,amd64
+Files:
+ 5735005c53e33695d58c455c73352663 3240 wine-staging_6.16~focal-1blox1.dsc
+ 5fd7ad58b42f4e4016f1d7c206e2fc7e 51164298 wine-staging_6.16~focal.orig.tar.gz
+ 1c38feb08579dc5448ce86b946c92ce9 7392 wine-staging_6.16~focal-1blox1.debian.tar.xz
+Checksums-Sha1:
+ 5321e693b59b2084b080ca0e0022eeb011ebadc7 3240 wine-staging_6.16~focal-1blox1.dsc
+ 50d1e554041870ac8ffa6b22ce0f8da49109c9e7 51164298 wine-staging_6.16~focal.orig.tar.gz
+ e5335a75ae949f6f324ef1a263ad06aaa4c84929 7392 wine-staging_6.16~focal-1blox1.debian.tar.xz
 Checksums-Sha256:
  9adafac98f91dcc515d36f1a45382dfbfbed180a6929f78f1db830d04dfd5815 3240 wine-staging_6.16~focal-1blox1.dsc
  d5c47f8b9abaac93c62901ee08ec7f208f6a057be242293aad88cdceb0b80398 51164298 wine-staging_6.16~focal.orig.tar.gz
  9c9d9f6abee2897ff4acb89d893c76f867e074dc25e7fd7e72e97dad7c0548c9 7392 wine-staging_6.16~focal-1blox1.debian.tar.xz
+Checksums-Sha512:
+ c2a9678b036b0342d17e424a27437a78c34430d922b8393adc685f6695f2754ff02915a17e010b637ba18755b6e80243eedac35e3180f985e4fd83256ad01d07 3240 wine-staging_6.16~focal-1blox1.dsc
+ 5afee2a43be623ed858cec15217d0070334cb5d671ed9e0a2da9dec1a06d42e96d5671f55b89a760e283449e1e3c601fd9f516e8b1559b67e82be6bacbd1b4ff 51164298 wine-staging_6.16~focal.orig.tar.gz
+ 78c8b754a71c2aac830e538c5bd9ca99bc8d425b03462f67960ec47145abfa35f0ec2e756baaa04d568848a87b9f442f96d2819361062e31af183b7440a50f11 7392 wine-staging_6.16~focal-1blox1.debian.tar.xz
 

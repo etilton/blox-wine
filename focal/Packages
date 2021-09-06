@@ -13,6 +13,8 @@ Depends: libasound2 (>= 1.0.16), libc6 (>= 2.29), libgcc-s1 (>= 3.0), libglib2.0
 Recommends: libcairo2, libcap2-bin, libcapi20-3, libcups2, libdbus-1-3, libfontconfig1, libfreetype6, libglu1-mesa | libglu1, libgnutls30 | libgnutls-deb0-28 | libgnutls26, libgsm1, libgssapi-krb5-2, libgtk-3-0, libjpeg8 | libjpeg62-turbo, libkrb5-3, libodbc1, libosmesa6, libpng16-16 | libpng12-0, libsane | libsane1, libsdl2-2.0-0, libtiff5, libv4l-0, libva-drm2 | libva-drm1, libva-x11-2 | libva-x11-1, libva2 | libva1, libxcomposite1, libxcursor1, libxfixes3, libxi6, libxinerama1, libxrandr2, libxrender1, libxslt1.1, libxxf86vm1
 Filename: focal/wine-staging-amd64_6.16~focal-1blox1_amd64.deb
 Size: 25900844
+MD5sum: 2e6a610a61f1741d53241443add93e24
+SHA1: cb97577b826dc8e242e345631fda083c0c8a47e2
 SHA256: 4adf8cb5c6d2373c462c9134d57c3583f31c516499e02228bb45bcf282873932
 SHA512: 51bf2a427f7936fe002d13bcb7bb6e3d5b1af5c6c57669b97de8513b0e21ddfa7a3bca5bec4a4d922efe85bedbed4b1ea39829bd25a1743b9b32741c3b2c733b
 Description: WINE Is Not An Emulator - runs MS Windows programs
@@ -36,6 +38,8 @@ Pre-Depends: dpkg (>= 1.14.12ubuntu3)
 Depends: wine-staging-i386 (= 6.16~focal-1blox1), wine-staging-amd64 (= 6.16~focal-1blox1)
 Filename: focal/wine-staging-dbg_6.16~focal-1blox1_amd64.deb
 Size: 103545140
+MD5sum: 20dd0d5a3d285447651e76071dbfd317
+SHA1: 765fce5fb82535b9ea2c90ab53bbf27fa2d2977e
 SHA256: 20413c4e9e6180724cdd74d8bade151fe12604e87aa23ad992dce0fd53c258f3
 SHA512: b54728d659c50489a50314ddc3c789360f7392446109d0673c03dd0494c7c65aff115f3439551ba3bb25d19c6d68d056bc4b7e5c5f6c5bdfa386852f7d9f8cfb
 Description: WINE Is Not An Emulator - runs MS Windows programs
@@ -60,6 +64,8 @@ Pre-Depends: dpkg (>= 1.14.12ubuntu3)
 Depends: wine-staging-i386 (= 6.16~focal-1blox1)
 Filename: focal/wine-staging-dbg_6.16~focal-1blox1_i386.deb
 Size: 99966876
+MD5sum: 19313cb7888fe169037231ff17a9ad3d
+SHA1: 248bc24484eaa63422ec1deb2b66017500850480
 SHA256: 1ee46498a6610e3b93690321d304eed3fed07fcd2dcbc4f4e1854c92f955482a
 SHA512: 34d839fff76d68ad8c29287458d9c1eced0a9fa674ad2cb6c4e1ac25cca10f609066dd853fe7b520078226e06edce53a94ca9c9657e65e9d74fdbd041453cbca
 Description: WINE Is Not An Emulator - runs MS Windows programs
@@ -83,6 +89,8 @@ Pre-Depends: dpkg (>= 1.14.12ubuntu3)
 Depends: libc6-dev, wine-staging-i386 (= 6.16~focal-1blox1), wine-staging-amd64 (= 6.16~focal-1blox1)
 Filename: focal/wine-staging-dev_6.16~focal-1blox1_amd64.deb
 Size: 3105076
+MD5sum: 7ae195036e1fd26ed97a6e8cf3fc5e56
+SHA1: 5ff936b5b77fe2ead09c43013e2cbf6f6edf21a0
 SHA256: 8edffbc20c8fd93b63704f4d2f2d4e789630200cf8beb048d41a028776695e99
 SHA512: c61f2c0d8a44825cf8b5b6ca543d3c3b7044b2206a8f8eccc5c114186143bc2671deb3ff3ce293241bbe38b227391dbde5d55241eaa8bbedf45464e1d01fc646
 Description: WINE Is Not An Emulator - runs MS Windows programs
@@ -105,6 +113,8 @@ Pre-Depends: dpkg (>= 1.14.12ubuntu3)
 Depends: libc6-dev, wine-staging-i386 (= 6.16~focal-1blox1)
 Filename: focal/wine-staging-dev_6.16~focal-1blox1_i386.deb
 Size: 3105104
+MD5sum: 54ec42bf9ede634d492140b2b99b4217
+SHA1: 162a3bbba665afc6758ac769ef2c8966bca90ada
 SHA256: 56f08555d0bf3605923822e22184d160f2c261412ace0a19a0d5bcf7b8b64d58
 SHA512: db08868ed59c0d8445dc82e655573ea368e2771bddca24ee86cd1d0396d9fd118450807008d5402ba557774e7dce0f711a0c8e24616e0d010cabc962a1da4e85
 Description: WINE Is Not An Emulator - runs MS Windows programs
@@ -129,6 +139,8 @@ Depends: libasound2 (>= 1.0.16), libc6 (>= 2.29), libglib2.0-0 (>= 2.12.0), libg
 Recommends: libcairo2, libcap2-bin, libcapi20-3, libcups2, libdbus-1-3, libfontconfig1, libfreetype6, libglu1-mesa | libglu1, libgnutls30 | libgnutls-deb0-28 | libgnutls26, libgsm1, libgssapi-krb5-2, libgtk-3-0, libjpeg8 | libjpeg62-turbo, libkrb5-3, libodbc1, libosmesa6, libpng16-16 | libpng12-0, libsane | libsane1, libsdl2-2.0-0, libtiff5, libv4l-0, libva-drm2 | libva-drm1, libva-x11-2 | libva-x11-1, libva2 | libva1, libxcomposite1, libxcursor1, libxfixes3, libxi6, libxinerama1, libxrandr2, libxrender1, libxslt1.1, libxxf86vm1
 Filename: focal/wine-staging-i386_6.16~focal-1blox1_i386.deb
 Size: 25569504
+MD5sum: 53b304325be645b35a4382104a1f741f
+SHA1: 31358736ebfc0b8b2a5711327adeee13739d9e7d
 SHA256: 5371b745287bd977c8e1a2763e700aee25ea9e48185f2f159fcc57815f094ddd
 SHA512: ffb5d762106e9a83800191dc206ba91e92ebbcd996c6f43d42a3ec3b232aa6bd423b9f50e958eada396a01bd06c4ee0ca572a1f3ff77323fab5e048c3d995fae
 Description: WINE Is Not An Emulator - runs MS Windows programs
@@ -152,6 +164,8 @@ Depends: debconf (>= 0.5) | debconf-2.0, libc6 (>= 2.17), wine-staging-i386 (= 6
 Recommends: libcap2-bin
 Filename: focal/wine-staging_6.16~focal-1blox1_amd64.deb
 Size: 3614424
+MD5sum: b14caefec9767e6febf84002fbd94f72
+SHA1: bc14376949e6ec9cf36d8a596e06bfc5b140dcdd
 SHA256: b4461ab68937f12cb3fba0d39246e562ad96620003f6809898da29c93ab771d9
 SHA512: b2f907c6b1b845ba49177647f8c36b4497d5790acc90f044da5de5e4e72f6c76ad8c02e11de71d5a921206148006153ef977731c15a0a3563542270426609cb6
 Description: WINE Is Not An Emulator - runs MS Windows programs
@@ -176,6 +190,8 @@ Depends: debconf (>= 0.5) | debconf-2.0, libc6 (>= 2.28), wine-staging-i386 (= 6
 Recommends: libcap2-bin
 Filename: focal/wine-staging_6.16~focal-1blox1_i386.deb
 Size: 3623596
+MD5sum: d3e92d9b6774c8f2a2e73b415916bbd5
+SHA1: 9268990405391efb0167035e9047f05cbaa3185b
 SHA256: 7d09eb0d2b66ee57897e50169daf11d08f7232226ac4b521b24c247c4db7f37a
 SHA512: 77a0f42f50d1162c14779ffd52a85ccd20121132e54565ea9c408c926caaca1e349cd494c6e2b1a9fb9f5a7eff660b6218254c35a1698741d5ec7a460ac5ee03
 Description: WINE Is Not An Emulator - runs MS Windows programs
@@ -201,6 +217,8 @@ Conflicts: wine, wine-amd64, wine-i386
 Replaces: wine, wine-amd64, wine-i386, wine1.4, wine1.4-amd64, wine1.4-i386, wine1.5, wine1.5-amd64, wine1.5-i386, wine1.6, wine1.6-amd64, wine1.6-i386, wine1.7, wine1.7-amd64, wine1.7-i386, wine32, wine64
 Filename: focal/winehq-staging_6.16~focal-1blox1_amd64.deb
 Size: 1940
+MD5sum: d46f292f281a61e279c41b8b3bf22728
+SHA1: 05bcfa03ca82cc32ed5eb2a9c4aa2ea119a8a329
 SHA256: 6bee0962223a870dfaf8230ac151feee8573cc08ccce3f43c4526e219d978b3c
 SHA512: 08fa64cd4c45b436eebbf153dbcef3923db70c31150c77be9dbe21b87fb9c467a2111ce20cdc8bd836265ea4b15ed5b241f38c3c130b5fc9f69efa9e22a1ee47
 Description: WINE Is Not An Emulator - runs MS Windows programs
@@ -225,6 +243,8 @@ Conflicts: wine, wine-amd64, wine-i386
 Replaces: wine, wine-amd64, wine-i386, wine1.4, wine1.4-amd64, wine1.4-i386, wine1.5, wine1.5-amd64, wine1.5-i386, wine1.6, wine1.6-amd64, wine1.6-i386, wine1.7, wine1.7-amd64, wine1.7-i386, wine32, wine64
 Filename: focal/winehq-staging_6.16~focal-1blox1_i386.deb
 Size: 1928
+MD5sum: 62307b9a53e8f7bc0cd653045fcfb25f
+SHA1: 9d10774044567e0c9998df803eef02ed94ea93a3
 SHA256: 4bbf66b6fabd69b1ab2299f41cf1fe54244bce3af439791329f5f0416052ddcb
 SHA512: b373d2979b6960350bf10f45076af2ecd6c45bc2bb949055a45916edd4969e0acb059453ccb64e2bda19551b8dab5c88034e6dcd12e3630652ffaa5d180bf4d9
 Description: WINE Is Not An Emulator - runs MS Windows programs

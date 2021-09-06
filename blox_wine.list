@@ -1,2 +1,2 @@
-deb https://etilton.github.io/blox-wine ./
-deb-src https://etilton.github.io/blox-wine ./
+deb https://etilton.github.io/blox-wine $(lsb_release -cs)/
+deb-src https://etilton.github.io/blox-wine $(lsb_release -cs)/
