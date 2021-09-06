@@ -1,0 +1,66 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sun, 05 Sep 2021 16:45:29 -0500
+Source: wine-staging
+Binary: wine-staging wine-staging-amd64 wine-staging-dbg wine-staging-dev winehq-staging
+Architecture: source amd64
+Version: 6.16~focal-1blox1
+Distribution: focal
+Urgency: low
+Maintainer: Rosanne DiMesio <dimesio@earthlink.net>, Marcus Meissner <meissner@suse.com>
+Changed-By: Eric Tilton <etilton@protonmail.com>
+Description:
+ wine-staging - WINE Is Not An Emulator - runs MS Windows programs
+ wine-staging-amd64 - WINE Is Not An Emulator - runs MS Windows programs
+ wine-staging-dbg - WINE Is Not An Emulator - runs MS Windows programs
+ wine-staging-dev - WINE Is Not An Emulator - runs MS Windows programs
+ winehq-staging - WINE Is Not An Emulator - runs MS Windows programs
+Changes:
+ wine-staging (6.16~focal-1blox1) focal; urgency=low
+ .
+   * Apply fix for mouse right click.
+Checksums-Sha1:
+ f7f949baa14e8587248d387104d71224db1a2f2c 3240 wine-staging_6.16~focal-1blox1.dsc
+ e5335a75ae949f6f324ef1a263ad06aaa4c84929 7392 wine-staging_6.16~focal-1blox1.debian.tar.xz
+ cb97577b826dc8e242e345631fda083c0c8a47e2 25900844 wine-staging-amd64_6.16~focal-1blox1_amd64.deb
+ 765fce5fb82535b9ea2c90ab53bbf27fa2d2977e 103545140 wine-staging-dbg_6.16~focal-1blox1_amd64.deb
+ 5ff936b5b77fe2ead09c43013e2cbf6f6edf21a0 3105076 wine-staging-dev_6.16~focal-1blox1_amd64.deb
+ ec22f78d5987f7eec972c96529fae9599050f230 25517 wine-staging_6.16~focal-1blox1_amd64.buildinfo
+ bc14376949e6ec9cf36d8a596e06bfc5b140dcdd 3614424 wine-staging_6.16~focal-1blox1_amd64.deb
+ 05bcfa03ca82cc32ed5eb2a9c4aa2ea119a8a329 1940 winehq-staging_6.16~focal-1blox1_amd64.deb
+Checksums-Sha256:
+ 680aa10a94b8cb594d87e96527832bf5dd93e59c22355bb690d75289107232dc 3240 wine-staging_6.16~focal-1blox1.dsc
+ 9c9d9f6abee2897ff4acb89d893c76f867e074dc25e7fd7e72e97dad7c0548c9 7392 wine-staging_6.16~focal-1blox1.debian.tar.xz
+ 4adf8cb5c6d2373c462c9134d57c3583f31c516499e02228bb45bcf282873932 25900844 wine-staging-amd64_6.16~focal-1blox1_amd64.deb
+ 20413c4e9e6180724cdd74d8bade151fe12604e87aa23ad992dce0fd53c258f3 103545140 wine-staging-dbg_6.16~focal-1blox1_amd64.deb
+ 8edffbc20c8fd93b63704f4d2f2d4e789630200cf8beb048d41a028776695e99 3105076 wine-staging-dev_6.16~focal-1blox1_amd64.deb
+ 3008624dd17f2c37da16f744d6d5a573dde7cfac9dc39a6fc1f9983899357b79 25517 wine-staging_6.16~focal-1blox1_amd64.buildinfo
+ b4461ab68937f12cb3fba0d39246e562ad96620003f6809898da29c93ab771d9 3614424 wine-staging_6.16~focal-1blox1_amd64.deb
+ 6bee0962223a870dfaf8230ac151feee8573cc08ccce3f43c4526e219d978b3c 1940 winehq-staging_6.16~focal-1blox1_amd64.deb
+Files:
+ abf4ada223ccb996938b12bea3cd4ee6 3240 otherosfs optional wine-staging_6.16~focal-1blox1.dsc
+ 1c38feb08579dc5448ce86b946c92ce9 7392 otherosfs optional wine-staging_6.16~focal-1blox1.debian.tar.xz
+ 2e6a610a61f1741d53241443add93e24 25900844 otherosfs optional wine-staging-amd64_6.16~focal-1blox1_amd64.deb
+ 20dd0d5a3d285447651e76071dbfd317 103545140 debug optional wine-staging-dbg_6.16~focal-1blox1_amd64.deb
+ 7ae195036e1fd26ed97a6e8cf3fc5e56 3105076 libdevel optional wine-staging-dev_6.16~focal-1blox1_amd64.deb
+ 261e349a9b004beb4c320e3d64789099 25517 otherosfs optional wine-staging_6.16~focal-1blox1_amd64.buildinfo
+ b14caefec9767e6febf84002fbd94f72 3614424 otherosfs optional wine-staging_6.16~focal-1blox1_amd64.deb
+ d46f292f281a61e279c41b8b3bf22728 1940 otherosfs optional winehq-staging_6.16~focal-1blox1_amd64.deb
+Original-Maintainer: WineHQ Builds <webmaster@fds-team.de>
+
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEED3seUZAfFZO76zOrwPH13GoRgpIFAmE1WrAACgkQwPH13GoR
+gpIfhwv/U85vpbOtUW2mjipEtRZn1nvy+crm91E4rb3rqlRgS20ZXgoBmREWB/Nf
+X6POxIXwRQafMcCNltlJ90Ez1T4yk4b1R1Q8FVpQ8PJTWBSCdxy5wIS1W3NjiSvR
+Fp1bRPf+rLKyvNqbFl96JhOhdTLktCOw/+CjupHOwhhD/X/PWInhODw5S7KXHR8S
+DoIfp5b6QE6KHHyD/ugdBt6JhuXDdkgi6OH88Kxl2vrXZyuzb+PiXav8wudcN1T6
+8ZcvQLbk7srQIzMr9OJj5KVcxJDxIj/ywbGwYrs/zgBb/VEf8rk0RjawvrWdt75G
+33qM0mAmvKplGk4NoHkfpi19dzZ+pm4ZYks3ddoDF11W7J71lsTJK8vBEdnfYaPj
+5Rtp/OHrDVue0orhbKzIXLYLfZbXtPnknsYb5//tbfcqAfmweONLEgIj1IwR+QtF
+fNCug6txXwWNeMHxfxyyWiNSOTR6VgMQMW/EUt+Mfe4T+HmjhZ1kTE0vO1nHNHbX
+60PpGLkh
+=kMqh
+-----END PGP SIGNATURE-----
