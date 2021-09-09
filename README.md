@@ -7,18 +7,24 @@ software compilation to install a Roblox-friendly wine package on Debian/Ubuntu.
 
 In the future I hope to debianize wine-tkg-git, so we can get that to more users as well.
 
-### Installing this Repository
+### Installing from this Repository
 
-**Using curl:**
+In order for Wine to install your system must be set up for multilib support. To achieve this enter the command:
+
+    sudo dpkg --add-architecture i386
+
+Next, you need to add the the gpg key to the Apt keyring.
+
+Using curl:
 
     curl -s --compressed "https://etilton.github.io/blox-wine/BLOXKEY.gpg" | sudo apt-key add -
-    sudo curl -s --compressed -o /etc/apt/sources.list.d/blox-wine.list "https://etilton.github.io/blox-wine/blox-wine.list"
-    sudo apt update
-    sudo apt install --install-recommends winehq-staging
 
-**Using wget:**
+Using wget:
 
-    wget -q -o /tmp/BLOXKEY.gpg "https://etilton.github.io/blox-wine/BLOXKEY.gpg" && sudo apt-key add /tmp/BLOXKEY.gpg
-    sudo  wget -q -o /etc/apt/sources.list.d/blox-wine.list "https://etilton.github.io/blox-wine/blox-wine.list"
+    wget -qO - "https://etilton.github.io/blox-wine/BLOXKEY.gpg" | sudo apt-key add -
+    
+Now you can add the repository to your sources list:
+    
+    echo "deb "https://etilton.github.io/blox-wine/ `lsb_release -cs`/" > /tmp/blox_wine.list && sudo mv /tmp/blox_wine.list /etc/apt/sources.list.d/
     sudo apt update
     sudo apt install --install-recommends winehq-staging
