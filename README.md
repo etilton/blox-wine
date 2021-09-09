@@ -25,6 +25,6 @@ Using wget:
     
 Now you can add the repository to your sources list:
     
-    echo "deb "https://etilton.github.io/blox-wine/ `lsb_release -cs`/" > /tmp/blox_wine.list && sudo mv /tmp/blox_wine.list /etc/apt/sources.list.d/
+    echo "deb https://etilton.github.io/blox-wine/ `lsb_release -cs`/" > /tmp/blox_wine.list && sudo mv /tmp/blox_wine.list /etc/apt/sources.list.d/
     sudo apt update
     sudo apt install --install-recommends winehq-staging
