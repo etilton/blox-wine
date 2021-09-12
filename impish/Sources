@@ -2,7 +2,7 @@ Package: wine-staging
 Format: 3.0 (quilt)
 Binary: wine-staging-i386, wine-staging-amd64, wine-staging, wine-staging-dev, wine-staging-dbg, winehq-staging
 Architecture: i386 amd64 armhf
-Version: 6.16~impish-1blox1
+Version: 6.17~impish-1blox1
 Maintainer: Rosanne DiMesio <dimesio@earthlink.net>, Marcus Meissner <meissner@suse.com>
 Original-Maintainer: WineHQ Builds <webmaster@fds-team.de>
 Standards-Version: 3.9.5
@@ -16,7 +16,7 @@ Package-List:
  wine-staging-i386 deb otherosfs optional arch=i386
  winehq-staging deb otherosfs optional arch=i386,amd64
 Checksums-Sha256:
- 95a71d75fe063a9b299e4ee346d07cb674761d69f3abc65e83e84cae1038e69a 3247 wine-staging_6.16~impish-1blox1.dsc
- d5c47f8b9abaac93c62901ee08ec7f208f6a057be242293aad88cdceb0b80398 51164298 wine-staging_6.16~impish.orig.tar.gz
- 203c86f0ee5cb3f89bc9e3ab5ae3dce17d1f743ffaf1597fa324a1d817634831 7352 wine-staging_6.16~impish-1blox1.debian.tar.xz
+ 2f875245f936c29803312b2f4cbe1996a092369359c5db9b3e6539a5212e2650 3247 wine-staging_6.17~impish-1blox1.dsc
+ 1e5ad2b03f476720043ddb31dc66a0220ec3005355dab3adf39fb0d1399822c9 51393219 wine-staging_6.17~impish.orig.tar.gz
+ 91bf6cf57444713ee3bd9ebca98d7b98cfe39fedceffff9f9a77730e25ea445b 7344 wine-staging_6.17~impish-1blox1.debian.tar.xz
 

@@ -2,7 +2,7 @@ Package: wine-staging
 Format: 3.0 (quilt)
 Binary: wine-staging-i386, wine-staging-amd64, wine-staging, wine-staging-dev, wine-staging-dbg, winehq-staging
 Architecture: i386 amd64 armhf
-Version: 6.16~bookworm-1blox1
+Version: 6.17~bookworm-1blox1
 Maintainer: Rosanne DiMesio <dimesio@earthlink.net>, Marcus Meissner <meissner@suse.com>
 Original-Maintainer: WineHQ Builds <webmaster@fds-team.de>
 Standards-Version: 3.9.5
@@ -16,7 +16,7 @@ Package-List:
  wine-staging-i386 deb otherosfs optional arch=i386
  winehq-staging deb otherosfs optional arch=i386,amd64
 Checksums-Sha256:
- d6ea447e0a84ea12c9cb0a1912a9c0fe8a7e4207e4d1cdd3b489bd487273869f 3261 wine-staging_6.16~bookworm-1blox1.dsc
- d5c47f8b9abaac93c62901ee08ec7f208f6a057be242293aad88cdceb0b80398 51164298 wine-staging_6.16~bookworm.orig.tar.gz
- e03c4776e3fde2077db50e80eb8b70f16a07c27c3afceaabe3fcbedc2cae2fe7 7384 wine-staging_6.16~bookworm-1blox1.debian.tar.xz
+ b73b28f7b722604a9ae300173b9f9f6a005e7f84467aaa40b225a593d57ef5f4 3261 wine-staging_6.17~bookworm-1blox1.dsc
+ 1e5ad2b03f476720043ddb31dc66a0220ec3005355dab3adf39fb0d1399822c9 51393219 wine-staging_6.17~bookworm.orig.tar.gz
+ 5fb6a195441e623b958985c17310c1af1b51cc08025b83c801c4693792f56922 7380 wine-staging_6.17~bookworm-1blox1.debian.tar.xz
 

@@ -2,15 +2,15 @@ Origin: etilton
 Label: etilton
 Suite: focal
 Codename: focal
-Date: Thu, 09 Sep 2021 20:33:43 UTC
+Date: Sun, 12 Sep 2021 23:02:12 UTC
 Architectures: all i386 amd64 source
 Acquire-By-Hash: yes
 SHA256:
- 59a197932e8f37ecdf66bbee8d2f40a32c2f223cc5cd74c94bc88715e2697305           94272 Packages
- bc7415cacd7c28874ec60d9d84c60549b482125526f5182011059c17f53f2884           44040 Packages.xz
- bf62668db0a7e935d8ec49c242688f2aad3582416dba421641200023addbf2e3            2291 Sources
- 84a8cd30be26905222c15a6e7048584c7f7be24b341a4fc07350843647ba307e            1056 Sources.xz
- a6181343626d1fcd2bc1622225bdbd3eb7faecc865bd3ac9fdebce451c5768af          359453 Contents-i386
- eb69c9689465f1b195a85120814733b21495b58c05e065b0303001a77745a77b           37448 Contents-i386.xz
- 2da09c43966ef58eba1b13b133d22e48754009d485e128195d0769a761f2c7c9          355009 Contents-amd64
- 7684a041ba2641a4d92f01fb5cf2394ffde13c0773e581631be1032b5b7845be           35720 Contents-amd64.xz
+ 695c3df4650d700f19f08acff55f9b7b13078aebc2ff92d42913dde5a02b8fc7           94601 Packages
+ d326938fe5e48d0defbd56efd8116afd10832980eaf32728d2cf42ed2b9279ca           44308 Packages.xz
+ 7179ae3aa0de95dc1cb4593a4decc720f0b510e3b584f96715422d7ce9be4535            2291 Sources
+ 6c667d659a117202ca81cc5f0f2e4507ee07fbad05bcbb38d9b11b7dd409b63c            1052 Sources.xz
+ 926da74089fd9e8a649be360bd9e452c320b1a043ac3f3ec96344b62af40c8cf          360679 Contents-i386
+ 48db0f1d7871b74ac46f0dad7fb0ea289c6aabade2448ef639c52b8ee0548df5           37436 Contents-i386.xz
+ 79b24af4dec0b88f86ce0cac49dedefc0573a37da27e15be90a5d2a7da030ad4          356278 Contents-amd64
+ 8f777ed300a0efa473e882303bf1618e7e5fd0b44a16c4f492118c7fd00d789a           35812 Contents-amd64.xz

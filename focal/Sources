@@ -2,7 +2,7 @@ Package: wine-staging
 Format: 3.0 (quilt)
 Binary: wine-staging-i386, wine-staging-amd64, wine-staging, wine-staging-dev, wine-staging-dbg, winehq-staging
 Architecture: i386 amd64 armhf
-Version: 6.16~focal-1blox1
+Version: 6.17~focal-1blox1
 Maintainer: Rosanne DiMesio <dimesio@earthlink.net>, Marcus Meissner <meissner@suse.com>
 Original-Maintainer: WineHQ Builds <webmaster@fds-team.de>
 Standards-Version: 3.9.5
@@ -16,7 +16,7 @@ Package-List:
  wine-staging-i386 deb otherosfs optional arch=i386
  winehq-staging deb otherosfs optional arch=i386,amd64
 Checksums-Sha256:
- 680aa10a94b8cb594d87e96527832bf5dd93e59c22355bb690d75289107232dc 3240 wine-staging_6.16~focal-1blox1.dsc
- d5c47f8b9abaac93c62901ee08ec7f208f6a057be242293aad88cdceb0b80398 51164298 wine-staging_6.16~focal.orig.tar.gz
- 9c9d9f6abee2897ff4acb89d893c76f867e074dc25e7fd7e72e97dad7c0548c9 7392 wine-staging_6.16~focal-1blox1.debian.tar.xz
+ 349a760e82958a2a88ce61cb84d388bce641a3a2cc6730f818decfbc362e763a 3240 wine-staging_6.17~focal-1blox1.dsc
+ 1e5ad2b03f476720043ddb31dc66a0220ec3005355dab3adf39fb0d1399822c9 51393219 wine-staging_6.17~focal.orig.tar.gz
+ 1dc2dc0b33e5da42c2205a7386824564e6370b599e9ac12b85ad0cfd604b4740 7372 wine-staging_6.17~focal-1blox1.debian.tar.xz
 

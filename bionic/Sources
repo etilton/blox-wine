@@ -2,7 +2,7 @@ Package: wine-staging
 Format: 3.0 (quilt)
 Binary: wine-staging-i386, wine-staging-amd64, wine-staging, wine-staging-dev, wine-staging-dbg, winehq-staging
 Architecture: i386 amd64 armhf
-Version: 6.16~bionic-1blox1
+Version: 6.17~bionic-1blox1
 Maintainer: Rosanne DiMesio <dimesio@earthlink.net>, Marcus Meissner <meissner@suse.com>
 Original-Maintainer: WineHQ Builds <webmaster@fds-team.de>
 Standards-Version: 3.9.5
@@ -16,7 +16,7 @@ Package-List:
  wine-staging-i386 deb otherosfs optional arch=i386
  winehq-staging deb otherosfs optional arch=i386,amd64
 Checksums-Sha256:
- 9a9b4b70e7bafafef9b247be7815b221d2399b24f4a658ca3f5a1f2e0cef6418 3247 wine-staging_6.16~bionic-1blox1.dsc
- 009faaf26f12efb7ddd82bca63a8190808449ecbcdd9d87605e8355fc20dac4c 51164298 wine-staging_6.16~bionic.orig.tar.gz
- 8aba42573f286c9487e7fa02725d45660237543ac82ef545c197aeafe5965ea8 7396 wine-staging_6.16~bionic-1blox1.debian.tar.xz
+ 3881b2bc14fd99fbdfffcef7fe8650d8455c58132a054c4d05993672eaaad901 3247 wine-staging_6.17~bionic-1blox1.dsc
+ d71fdd9b106980ce9b560521b5e096cc688270ca08d1df47773e9a534e54ac06 51393219 wine-staging_6.17~bionic.orig.tar.gz
+ 8e50f167f86dd25d86b62d9d939cbdf86920c61928075215caf1255fe9a0be73 7380 wine-staging_6.17~bionic-1blox1.debian.tar.xz
 
