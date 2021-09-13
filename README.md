@@ -23,8 +23,8 @@ Using wget:
 
     wget -qO - "https://etilton.github.io/blox-wine/BLOXKEY.gpg" | sudo apt-key add -
     
-Now you can add the repository to your sources list:
+Now you can add the repository to your sources list(codename is bionic,bullseye,etc):
     
-    echo "deb https://etilton.github.io/blox-wine/ `lsb_release -cs`/" > /tmp/blox_wine.list && sudo mv /tmp/blox_wine.list /etc/apt/sources.list.d/
+    echo "deb https://etilton.github.io/blox-wine/ <codename>/" > /tmp/blox_wine.list && sudo mv /tmp/blox_wine.list /etc/apt/sources.list.d/
     sudo apt update
     sudo apt install --install-recommends winehq-staging
